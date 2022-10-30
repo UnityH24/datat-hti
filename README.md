@@ -1,2 +1,2 @@
-# datat-hti
+# datatähti
 datatähti valmennus ja kilpailutehtävät
